@@ -29,5 +29,5 @@ Currently working at [2na8](https://2na8.com).
 <div>
   <a href="https://github.com/marcelogava">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogava&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelogava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelogava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
